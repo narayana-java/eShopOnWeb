@@ -1,4 +1,5 @@
-﻿using System.Net.Mime;
+//Test commit
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
 using BlazorAdmin.Services;
